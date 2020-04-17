@@ -61,11 +61,16 @@ p {
 
 footer {
   background: black;
-  height: 75px;
+  height: 120px;
   text-align: center;
 }
+
 
 .footer-img {
   width: 57px;
   margin-top: 8px;
+}
+
+a {
+  color: white;
 }

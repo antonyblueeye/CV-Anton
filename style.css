@@ -14,6 +14,10 @@ header {
   text-align: center;
 }
 
+.fish {
+  height: 30px;
+}
+
 .header-span-name {
   font-size: 25px;
 }
